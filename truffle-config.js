@@ -1,4 +1,9 @@
 module.exports = {
+  compilers: {
+    solc: {
+      version: "^0.6.0"
+    }
+  },
   networks: {
     local: {
       host: "localhost",
