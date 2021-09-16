@@ -132,7 +132,6 @@ contract SupplyChain {
     // emit LogForSale(skuCount);
     // return true;
   }
-
   // Implement this buyItem function.
   // 1. it should be payable in order to receive refunds
   // 2. this should transfer money to the seller,
